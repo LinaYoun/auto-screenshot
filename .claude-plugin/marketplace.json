@@ -8,10 +8,11 @@
   "plugins": [
     {
       "name": "auto-screenshot",
-      "source": "./.claude-plugin",
+      "source": ""./plugins/auto-screenshot/.claude-plugin",
       "description": "Automatically captures active window screenshots during Claude Code sessions on Windows",
       "version": "1.0.0"
     }
   ]
 }
+
 
