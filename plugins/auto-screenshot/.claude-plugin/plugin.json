@@ -1,0 +1,15 @@
+{
+  "name": "auto-screenshot",
+  "version": "1.0.0",
+  "description": "Automatically captures active window screenshots during Claude Code sessions on Windows. Takes screenshots on session start, user prompt submission, and after Bash command execution.",
+  "author": {
+    "name": "Your Name",
+    "email": "your@email.com"
+  },
+  "homepage": "https://github.com/username/my-claude-plugins",
+  "repository": "https://github.com/username/my-claude-plugins",
+  "license": "MIT",
+  "keywords": ["screenshot", "windows", "automation", "productivity"],
+  "category": "productivity",
+  "platforms": ["win32"]
+}

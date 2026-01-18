@@ -1,0 +1,17 @@
+{
+  "name": "my-claude-plugins",
+  "description": "Personal Claude Code plugins collection",
+  "owner": {
+    "name": "Your Name",
+    "email": "your@email.com"
+  },
+  "plugins": [
+    {
+      "name": "auto-screenshot",
+      "source": "./.claude-plugin",
+      "description": "Automatically captures active window screenshots during Claude Code sessions on Windows",
+      "version": "1.0.0",
+      "platforms": ["win32"]
+    }
+  ]
+}
