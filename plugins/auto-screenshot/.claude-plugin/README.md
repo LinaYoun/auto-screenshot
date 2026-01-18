@@ -37,10 +37,7 @@ Windows에서 Claude Code 세션 중 자동으로 활성 창 스크린샷을 촬
 
 ```bash
 # 마켓플레이스 추가
-/plugin marketplace add username/my-claude-plugins
-
-# 플러그인 설치
-/plugin install auto-screenshot@my-claude-plugins
+/plugin marketplace add https://github.com/LinaYoun/auto-screenshot.git
 ```
 
 ### 로컬 설치
@@ -75,3 +72,4 @@ claude --plugin-dir /path/to/screenshot-hooks/.claude-plugin
 ## 라이선스
 
 MIT License - 자유롭게 사용, 수정, 배포할 수 있습니다.
+
