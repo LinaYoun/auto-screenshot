@@ -9,6 +9,8 @@
   "homepage": "https://github.com/LinaYoun/auto-screenshot.git",
   "repository": "https://github.com/LinaYoun/auto-screenshot.git",
   "license": "MIT",
-  "keywords": ["screenshot", "windows", "automation", "productivity"]
+  "keywords": ["screenshot", "windows", "automation", "productivity"],
+  "hooks": "./hooks/hooks.json"
 }
+
 
