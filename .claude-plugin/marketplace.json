@@ -10,7 +10,8 @@
       "name": "auto-screenshot",
       "source": "./.claude-plugin",
       "description": "Automatically captures active window screenshots during Claude Code sessions on Windows",
-      "version": "1.0.0",
+      "version": "1.0.0"
     }
   ]
 }
+
